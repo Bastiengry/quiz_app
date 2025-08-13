@@ -1,13 +1,15 @@
 # React + TypeScript + Vite
 
-## QuiApp
+## QuizApp
 
-1. Generate node_modules
+1. Please check package.json for the versions of node and npm
+
+2. Generate node_modules
 - npm ci
 
-2. Build the project
+3. Build the project
 - npm run build
 
-3. Start the app in development
+4. Start the app in development
 - npm run dev
 
