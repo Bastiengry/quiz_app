@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.app-content {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+}
